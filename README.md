@@ -1,4 +1,4 @@
-# VEF2B3U
+# VEF2B3U - VefÞróun
 Verkefni fyrir VEF2B3U
 ## Nemandi
 Pálmi C Rúnarsson(PCR)
